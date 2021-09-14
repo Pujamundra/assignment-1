@@ -4,5 +4,5 @@ r = 1.1
 a = (r*r*22/7)
 print(a)
 
-f = "Abc.py"
-print(f + "python")
+f = " "
+print(f + ".py")
